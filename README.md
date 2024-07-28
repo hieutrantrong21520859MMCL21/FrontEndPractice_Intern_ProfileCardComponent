@@ -4,7 +4,7 @@
 
 The challenge is to build out this profile card component and get it looking as close to the design as possible.
 
-![Design preview for the QR code component coding challenge](./preview.jpg)
+![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
 ### a) My screenshot
 
