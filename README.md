@@ -53,7 +53,7 @@ The challenge is to build out this profile card component and get it looking as 
           <td>Likes</td>
           <td>Photos</td>
       </tr>
-    </table>
+</table>
 ```
 
 ### c) Useful resources
