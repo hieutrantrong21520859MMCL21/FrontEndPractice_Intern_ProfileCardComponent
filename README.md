@@ -26,7 +26,7 @@ The challenge is to build out this profile card component and get it looking as 
 ### b) What I learned
 
 - How to create a table using HTML tags.
-- How to use <span> tag.
+- How to use *span* tag, *hr* tag and non - breaking space (*&nbsp*).
 - Some codes I am most proud of (which consist of knowledge I have learned):
 
 ```html
