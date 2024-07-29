@@ -8,7 +8,7 @@ The challenge is to build out this profile card component and get it looking as 
 
 ### a) My screenshot
 
-![My screenshot for the QR code component coding challenge](./screenshot.jpeg)
+![My screenshot for the Profile card component coding challenge](./screenshot.jpeg)
 
 ### b) Links
 
@@ -19,10 +19,9 @@ The challenge is to build out this profile card component and get it looking as 
 
 ### a) Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML
+- CSS
 - Flexbox and its some attributes (flex-direction, align-items)
-- [Styled Components](https://styled-components.com/) - For styles
 
 ### b) What I learned
 
@@ -42,8 +41,8 @@ The challenge is to build out this profile card component and get it looking as 
 ```
 
 ```html
-<table style="width: 80%; margin-top: 25px; margin-left: auto; margin-right: auto; text-align: center;">
-      <tr style="font-size: 18px;">
+<table style="width: 90%; margin-top: 15px; margin-left: auto; margin-right: auto; text-align: center; margin-bottom: 20px;">
+      <tr style="font-size: 20px;">
           <th>80K</th>
           <th>803K</th>
           <th>1.4K</th>
